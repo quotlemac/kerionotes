@@ -1,5 +1,5 @@
 # Kerio Notes
-This contains the Kerio Notes documentation and issue tracking for [Kerio Notes](www.kerionotes.com) .
+This contains the Kerio Notes documentation and issue tracking for [Kerio Notes](http://www.kerionotes.com) .
 
 * Please post any bugs, feature requests, ideas or even questions (with the appropriate tags) in the issues section.
 * Some issues are marked as FAQ/Knowledge base, which may be interesting for everybody. View them [here](https://github.com/quotlemac/kerionotes/issues).
